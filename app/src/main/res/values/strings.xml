@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Save your stories, restore you memories.</string>
+    <string name="title_welcome_page">Welcome to My Story!</string>
+    <string name="title_signup_page">Complete your account information.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your information to log in.</string>
+    <string name="title_login_page">Are you ready to upload your stories?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="option_menu">Option Menu</string>
+    <string name="username">Username</string>
+    <string name="created_date">Created Date</string>
+    <string name="description">Description...</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="preview_image">Preview Image</string>
+    <string name="empty_image_warning">Please choose an image first.</string>
+    <string name="empty_description_warning">Please add a description first.</string>
+    <string name="map">Map</string>
+    <string name="title_activity_maps">My Story Map</string>
+    <string name="retry">Try Again</string>
+    <string name="change_map_type">Change Map Type</string>
+</resources>
